@@ -1,5 +1,5 @@
 body {
-    background-color: #B8621B;
+    background-color: #0F0F0F;
 }
 
 div {
@@ -10,7 +10,7 @@ div {
 }
 
 .info {
-    background-color: white;
+    background-color: #B8621B;
 }
 
 .button {
@@ -19,7 +19,7 @@ div {
     font-weight: bold;
     padding: 20px;
     text-align: center;
-    border: 2px solid darkgrey;
+    border: 2px solid #B8621B;
     border-radius: 5px;
 
     width: 200px;
@@ -32,4 +32,19 @@ a {
 
 a:hover {
     color: black;
+}
+
+h1 {
+    color:#fff;
+    background-color: #003F5C;
+}
+
+h2 {
+    color:#fff;
+    background-color: #003F5C;
+}
+
+h3 {
+    color:#fff;
+    background-color: #003F5C;
 }
