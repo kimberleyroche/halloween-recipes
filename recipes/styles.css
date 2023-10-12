@@ -1,3 +1,35 @@
 body {
-    background-color: sandybrown;
+    background-color: #B8621B;
+}
+
+div {
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.info {
+    background-color: white;
+}
+
+.button {
+    color: #fff;
+    background-color: #003F5C;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid darkgrey;
+    border-radius: 5px;
+
+    width: 200px;
+    margin: 20px auto;
+}
+
+a {
+    color:#fff;
+}
+
+a:hover {
+    color: black;
 }
